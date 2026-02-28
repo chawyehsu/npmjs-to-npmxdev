@@ -6,7 +6,7 @@ A tiny userscript that automatically redirects `www.npmjs.com` and `npm.im` to `
 
 ## Install
 
-1. Install a userscript manager (e.g., Tampermonkey, Violentmonkey, or Greasemonkey).
+1. Install a userscript manager (e.g., Tampermonkey, [Violentmonkey](https://violentmonkey.github.io/get-it/), or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)).
 2. Click [HERE](https://raw.githubusercontent.com/chawyehsu/npmjs-to-npmxdev/main/npmjs-to-npmxdev.user.js) to open the userscript in your manager.
 3. Confirm installation in your userscript manager.
 
