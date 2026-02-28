@@ -1,3 +1,5 @@
+![npmjs-to-npmxdev](https://socialify.git.ci/chawyehsu/npmjs-to-npmxdev/image?description=1&font=JetBrains+Mono&logo=https%3A%2F%2Fnpmx.dev%2Fpwa-512x512.png&name=1&owner=1&theme=Auto)
+
 # NPMJS to NPMX Redirector
 
 A tiny userscript that automatically redirects `www.npmjs.com` and `npm.im` to `npmx.dev`.
